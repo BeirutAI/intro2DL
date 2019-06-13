@@ -33,7 +33,7 @@ Slides can be found here: https://drive.google.com/file/d/1Dk0vLxE4r-pMGe-ys4bTI
 
 Code (with blanks) on Google Colab can be found here: https://colab.research.google.com/drive/1ZoK_UI4unnBJwBj_pimq4TlTG37ntz_X
 
-Complete code (with solutions) will be posted after the workshop ;)
+Complete code (with solutions) can be found here: https://colab.research.google.com/drive/1zoynwe4ZPDIpuE1uWV7-Z-Wz6GLgo-U6
 
 To edit the code, click **File** then **Save a copy in Drive…**
 <br/><br/><br/>
